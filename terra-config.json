@@ -1,0 +1,41 @@
+{
+  "terraClientID": "payment_controller:android:playstore:2.0.0-basic-ViettelStore",
+  "terraEnvironment": "dev",
+  "defaultConfig": {
+    "@type": "type.googleapis.com/terra.v1.Pandora",
+    "config": "ByvFwVfC8rJFJ+wIBtg9YgwbOzuJKdawVKp6lJC/k/VbLWTM8end2asTlpf0uoW+scqIkSPMmF1RlmDf7x3bN2qhy/9P6nRgcQUWNQCESjyG3xdkvRJuXc+ULfIFSL8=",
+    "services": [
+      {
+        "name": "Tracker",
+        "code": "tracker",
+        "config": "dgYuj7RN1xi9D24zVnO6Z0dq6WcTy9x5fgmWoA3LysFcGC7/G+COAcQfDKcJPnX1Jxlb0IiwyS+SfQuYLI9sC7Gq0thvP2kZxv1TqZIT/dvBtpyycs12T7Oc6GdMIMQZEYuokg9uQofBrokb5NYtxpskX0rCU1dXgGreDtEuGqMhm+8rtynPD7bzpSs4c1L5w+a+vL9plZJ/GwnxFC+2Ym1ccmO5ka9MdnXmKT6KWNI2b5lpa2Xcsd6G24Y="
+      },
+      {
+        "name": "IAM",
+        "code": "iam",
+        "config": "tKMeVhtCnU8c54yKhNLm6Hhx+MHtIjzE2MCMIhBmtxvNri8eNKO1M3rtSlTBo1ZndJFGvJOfftumdUeQUdhMO8xoYiKnFqDMW2CTr6pPV6K2nkJV51NsKb3ZX1fC2JsbnbXOSXkvoOdQJyPD1JjdZIZ0+imEO2/9fme3ZVi19Kdvn+Dm7c6VfziTtEHToedC321yVvQDtuHeogE7WLMGhFVEioYf0eEluIV1fFv/ntTEduwrPpHwObpR+oRw/U7HV9+qvFhr+ADG0NmrHldL819qgf4E+VmqF52awc8VdmCJyczV3jOGjnVbk+JN64GTxVZWQmYE9DyqwAAa1Rc53eKoEJiussoY1aWfqoEtm7NPob3+QJEykcPa40rslE0kBEJxFfFAVVX6CjGOQqoy/p6YZw+6JNSm/jgd6870RO33rGthXgXy4G2GWTKZwws1M50/xy9eJR+3CH0cb/6nTDNcj1jQDBfwe3Mp7W20gUy9A5obS3/FO+PxcfA/WnVeA32kvSSw+h5Z1vihPD4ZxV+kGWMdYE5s82IbvPmXm2KNRFFcmWhi9W3cE63rTmG/TNWef0BDrC6zV2jHc4d0ly6l8t8X36WKsCz3sTtNadqo+vAYTt+Nixp0xba8I2vuWFjlwPUhTwRhBH//ZOw9GhK7AfAi1Ifi9MPIGuXowKP3f5gIIItU7CSzsPvhzSQ+AZbKXDdO1opg75yPesGrbS8Yin/Y/VFNkOnA7oSONU7WcQ1rbprElq3RRRpOvVENr6DQ+xk6"
+      },
+      {
+        "name": "Payment",
+        "code": "ps",
+        "config": "MXYLSvH4QweXldG8Nos5mBVzXlER6er1QucVAdpmGEyOhSUxAJO1Rhm/7XW8OWrXIV+0vP2kQgROtMzJbQ2mFAybjQT54t4FKJ0MMWALUNTEVaZgbZIpqa/G9sqtoDPyCkFx35M28zBxoe8cb1tn0R6bevf4k7A3LTTyYA/BDWSwNFy/kdIFOI2oEkR2bUJYugJ9KO/J9eZ3qDzypDLknrFDv9u6RFxNBHbKCc9RR8ZmyY4KXe+c/0hUCOfaM45Te9gyuhvwtFsrqGHWlC/D1AsKxN8LUSzV56BkIHkzOoKdvr5mkXzfaYOWTLkHrF/fk+NuxqVaYZ+zgBSXJq3K805nKcszfnvMSJxC9IlbIuhvhgoGSyJS1iFpX25XAGFVeFIpecwCYp1MMYWsZ+PZV+eVt7WZjHW8NmMpNHEkgXSwqjvOPyKYmFtRhF1+12tyAMvNfVj//uZdgqRj2g9vbbDK/aHie2S3MrW3sbMY1JU7agn+LBlCDYVU/NOfcg7LrXNBeyd86BS2YvKc5jr6tqFR+SYWomMB10gydl8p0mbMWA+WHaA2LD5WC1B3vFREv3jLsbRsZZdQIILzPINaaG6gNnggkRoQIOKJcU4MruUUQaV3b0d2oYG+6bGv53cCm4psn9OKYsJzVEQxwikIaqE6EKDtt2pwGavrC7WvTBJMqjPlPkGBiBVzsqAKTrDTpVMtYTDLS8aekGzf8uHhjBiuHIQIzKZaWCeWijXD6P9puORPcDbSfQciH/GCYBmcqDp8ejb6y4ZdgJdxjkxoGooV+5wW6QaoQwQhLhf8TpZUPTVInZXrRofbZiHwFo50HrUjt4/lteVnOobTDbcBh4IgjMvyrhsZsBRdYILAxaqOi8nnwua51XjL2vu0rnBaJvv0C5CHtJDqLueVjuMg9vyC1NYUxE9gdkRIxpKFP2bOpjHl7M1p9LNgdVJcuk9E6mFq/DPBYB/d9j+jEmu6CYFzfFCUNrQyrUJvgG2ithRK4bqyI8X6vUi1Dlf3XQ+k6Br1SOw/NLyghsDDUxP3gb7DnovamJTdKHY6shLGeBwpLSH9RnwWieOIdFT4311juEIawQw7JyYQjo2juc7NTyXUN2Q8S+Raeifk6CDvwS/2oum5zgHo7iA/DV7DpHE0AwXNb5srnhTIFEUppqvf2O9nhmDxaLl366zYQmGwFQ=="
+      },
+      {
+        "name": "Bank",
+        "code": "bank",
+        "config": "bljNRgDs5Lvcq8uo7bEiIEkq7vkg0TaA6VXOEbUmBiX1gMXogF6/LCJ8Xh7QNzmz2iJRTDhQd55e9NsU1GsFBPjukwYKhfygbNQCk19BMNr/SgZbeAUxASqbpehDjJH6mTtRi7LliI/Jemrm7H/4+18BlMwYqyq4qBHb9LjA6qjQZbZRzjV8rHZPnyvExpTFldkGBC4ED7Q="
+      },
+      {
+        "name": "Apollo",
+        "code": "apollo",
+        "config": "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"
+      },
+      {
+        "name": "Payment Controller",
+        "code": "payment_controller",
+        "config": "cMbrMAqkY3us2wm8n3oMqmHIN9UvIWnbdqIohOttlJomzoLAJoYewys+PD3ZaZJDu7XQA64NwYa6wI4W1Fo/2uwzZmCkqKGCbUPCnFsEi5I9ecHfpkyeCSohXHSRvhWN7rkcdXPpfWfvlRM0KQ6fiHOMFgXMWvuFzpM8MrdOsChMM2ovUki6PAyoDJDJLYA9ia0P7xZM6pZdySGzQvS3X7vwWIDnuEFBwTksIRjYJY3CHt6siSZcQKw2uhddd3wCJykKQ5ZmHJUSEdfEEDBPvu9e7Wzq5TeqCplF7oyyaixXOXy3xmxYee9Y0/Z7q7npYpwl3VA+kdSgLWaMQ8jc2+oQ1hUpJbNVl53N/q0gxDRa60QciiwqvvzS+4BNeqQRM5xFiyHH+8BhQNVWEbn9W5UrUWpBVm8NvsPETbxaq0I1P4eyoCv58hESBKhe7x4URow0i+yjz3Kc+8XpW6cwEL6BwAHU+Q1ZMEIdOE1eVxb9eZOT3yzaBMG5lPGlH3z2/o85t3u4Jl9KloyzoVsLFPAi0QiHCeRapToBkM73ob8ii+VvW6Q4oTX3DNuFXmz/tGp467KPdrl9Mguu8PUjsgW3hF93WpZ9AntZKw9N2LzWdahvp87WuGtWY6uGDuOiqxk5+fdvBMVBGNiFwLIkkpaEVlqzfXaf7XmU21MAkvZZZTDx9Wz7jrSTX9PbP6cleLIrsPVz7AbMIk1z4lroDXCY8twXy+mssBH1WNqYoke5T5uuNzDRhcjf//y/RuMO6neEjgCzOcvf3PnLhqFgNrUUrwu9fWhA631Ce3Di5IEl6aLesJWgDMEQocB7c5hY6ScmN7kvRM7/a7UsSW9tGUvjeYMH9HCJ4vm5ZPNkB1VW0MLdzcII1Uss+ETcHMdoDMKdW565AJCbDiALUZtb"
+      }
+    ],
+    "env": "dev"
+  }
+}
